@@ -1,4 +1,4 @@
-<h1 align="center"> Login V1 </h1>
+<h1 align="center"> Login Version 1 </h1>
 
 <p align="center">
 Software desenvolvido com base em um vídeo do Youtube com algumas modificações.
