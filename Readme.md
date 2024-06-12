@@ -5,6 +5,10 @@ Software desenvolvido com base em um vídeo do Youtube com algumas modificaçõe
 </p>
 
 <p align="center">
+  <img alt="Photo" src="https://i.postimg.cc/mg9S7yJ7/Captura-de-tela-2024-06-11-221042.png">
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
